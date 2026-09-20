@@ -12,7 +12,7 @@ static char *font2[] = {
 	"Noto Color Emoji:pixelsize=11:antialias=true:autohint=false",
 };
 
-static int borderpx = 6;
+static int borderpx = 8;
 
 /*
  * What program is execed by st depends of these precedence rules:
